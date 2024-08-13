@@ -11,7 +11,7 @@ code -a .
 ```
 3. Run Docker Compose up to build and start the containers:
 ```
-docker-compose -f docker-compose.yml up -d
+docker-compose up -d
 ```
 4. Check the built images:
 ```
