@@ -3,7 +3,7 @@
 ## Dockerize Ghost Image in Docker Hub
 1. Clone this repo
 ```
-git clone <repourl>
+git clone https://github.com/gyenoch/Dockerize-and-Deploy-Images-in-Kubernetes.git
 ```
 2. If it is the only folder, open with:
 ```
