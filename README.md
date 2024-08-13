@@ -67,7 +67,7 @@ spec:
     spec:
       containers:
       - name: mysql
-        image: kwameds/mysql:latest
+        image: gyenoch/mysql:latest
         env:
         - name: MYSQL_ROOT_PASSWORD
           value: example
@@ -111,7 +111,7 @@ spec:
     spec:
       containers:
       - name: ghost
-        image: kwameds/ghost:latest
+        image: gyenoch/ghost:latest
         ports:
         - containerPort: 2368
         env:
